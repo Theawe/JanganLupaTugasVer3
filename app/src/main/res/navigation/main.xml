@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuList">
+
+    <fragment
+        android:id="@+id/menuList"
+        android:name="id.java.janganlupatugas.fragment.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" />
+<!--    <fragment-->
+<!--        android:id="@+id/test"-->
+<!--        android:name="id.java.janganlupatugas.fragment.DetailListFragment"-->
+<!--        android:label="fragment_detail_list"-->
+<!--        tools:layout="@layout/fragment_detail_list" />-->
+    <fragment
+        android:id="@+id/menuHistory"
+        android:name="id.java.janganlupatugas.fragment.HistoryFragment"
+        android:label="fragment_histori"
+        tools:layout="@layout/fragment_history" />
+</navigation>

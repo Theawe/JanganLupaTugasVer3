@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuList"
+        android:title="@string/list_tugas"/>
+    <item android:id="@+id/menuHistory"
+        android:title="@string/histori_tugas"/>
+</menu>

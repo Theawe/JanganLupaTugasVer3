@@ -1,0 +1,82 @@
+<resources>
+    <string-array name="list_tugas">
+        <item>Tugas 1</item>
+        <item>Tugas 2</item>
+        <item>Tugas 3</item>
+        <item>Tugas 4</item>
+        <item>Tugas 5</item>
+        <item>Tugas 6</item>
+        <item>Tugas 7</item>
+        <item>Tugas 8</item>
+        <item>Tugas 9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+        <item>Ini Deskripsi</item>
+    </string-array>
+    <string-array name="tanggal">
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+        <item>10-APRIL-2021</item>
+    </string-array>
+    <string-array name="list_tugas_selesai">
+        <item>Tugas 10</item>
+        <item>Tugas 11</item>
+        <item>Tugas 12</item>
+        <item>Tugas 13</item>
+        <item>Tugas 14</item>
+        <item>Tugas 15</item>
+        <item>Tugas 16</item>
+        <item>Tugas 17</item>
+    </string-array>
+    <string-array name="deskripsi_selesai">
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+        <item>Tugas Selesai</item>
+    </string-array>
+    <string-array name="tanggal_selesai">
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+        <item>10-FEB-2021</item>
+    </string-array>
+
+
+    <string name="app_name">JanganLupaTugas</string>
+    <string name="list_tugas">List Tugas</string>
+    <string name="histori_tugas">Histori Tugas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="birthday">birthday</string>
+    <string name="deadline">deadline</string>
+</resources>
